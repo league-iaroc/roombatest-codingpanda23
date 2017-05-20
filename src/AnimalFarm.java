@@ -17,10 +17,10 @@ public class AnimalFarm {
 			if (animal.equals("dog")) {
 				playNoise(woofFile);
 			}
-			if (animal.equals("Duck")) {
+			if (animal.equals("duck")) {
 				playNoise(quackFile);
 			}
-			if (animal.equals("Cow")) {
+			if (animal.equals("cow")) {
 				playNoise(mooFile);
 			}
 		}
