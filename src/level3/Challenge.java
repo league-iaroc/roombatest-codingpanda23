@@ -24,12 +24,12 @@ public class Challenge extends Head {
 		sleep(2500);
 		driveDirect(400, 400);
 		sleep(2500);
-		driveDirect(0, 100);
+		driveDirect(0, 105);
 		sleep(2500);
 		driveDirect(400, 400);
-		sleep(2000);
+		sleep(2300);
 		driveDirect(100, 0);
-		sleep(2500);
+		sleep(2600);
 		driveDirect(400, 400);
 
 	}
